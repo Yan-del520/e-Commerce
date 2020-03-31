@@ -1,0 +1,197 @@
+.navigationbar {
+    width: 1300px;
+    height: 33px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+}
+
+.navigationbar>a {
+    color: #999999;
+    font-size: 0.7em;
+    line-height: 33px;
+    padding-right: 33px;
+}
+
+.logo {
+    width: 240px;
+    height: 130px;
+    margin: 0 auto;
+}
+
+.text {
+    width: 491px;
+    height: 36px;
+    border: solid #ff0036 2px;
+    color: darkgray;
+    float: left;
+}
+
+.button {
+    width: 132px;
+    height: 40px;
+    border: solid #ff0036 1px;
+    background-color: #ff0036;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    float: right;
+    margin-top: -6.3%;
+}
+
+.cart {
+    position: absolute;
+    left: 61%;
+    top: 1.3%;
+}
+
+.input {
+    width: 626px;
+    height: 42px;
+    float: right;
+    margin-right: 25%;
+    margin-top: 4%;
+}
+
+.menu1 {
+    width: 90px;
+    height: 70px;
+    background-color: white;
+    font-size: 0.8em;
+    color: darkgray;
+    position: absolute;
+    right: 38%;
+    top: 4%;
+    z-index: 1;
+    text-align: center;
+    line-height: 30px;
+}
+
+.clearfix:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.menu2 {
+    width: 90px;
+    height: 70px;
+    background-color: white;
+    font-size: 0.8em;
+    color: darkgray;
+    z-index: 1;
+    position: absolute;
+    right: 29%;
+    top: 4%;
+    text-align: center;
+    line-height: 30px;
+}
+
+.menu3 {
+    width: 90px;
+    height: 70px;
+    background-color: white;
+    font-size: 0.8em;
+    color: darkgray;
+    position: absolute;
+    right: 24%;
+    top: 4%;
+    z-index: 1;
+    text-align: center;
+    line-height: 30px;
+}
+
+.menu4 {
+    width: 100px;
+    height: 150px;
+    background-color: white;
+    font-size: 0.7em;
+    color: darkgray;
+    z-index: 1;
+    position: absolute;
+    right: 12%;
+    top: 4%;
+    line-height: 18px;
+}
+
+.menu4>p {
+    font-weight: bold;
+}
+.img{
+    position: absolute;
+    top: 10%;
+    left: 13%;
+}
+.col-lg-6{
+    position: absolute;
+    left: 50%;
+    top: 11%;
+}
+.form-control{
+    width: 400px;
+    height: 30px;
+}
+.btn-default{
+    height: 33px;
+    width: 33px;
+    background-color: crimson;
+}
+.headline h4{
+    float: left;
+    position: absolute;
+  
+}
+.qbsp{
+    margin-left: 13%;
+    margin-top: 8%;
+}
+.jjsp{
+    margin-left: 21%;
+    margin-top: 8%;
+}
+.kcjz{
+    margin-left: 29%;
+    margin-top: 8%;
+}
+.headline span{
+    position: absolute;
+    margin-left: 67%;
+    margin-top: 8.5%;
+    font-size: 13px;
+}
+.fgx{
+    position: absolute;
+    width: 65%;
+    height: 1px;
+    top: 27%;
+    left: 13%;
+    background-color: gray;
+}
+.merchandise{
+    position: absolute;
+    top: 30%;
+    left: 19%;
+}
+.price{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+.amount{
+    position: absolute;
+    top: 30%;
+    left:57%;
+}
+.money{
+    position: absolute;
+    top: 30%;
+    left: 63%;
+}
+.operation{
+    position: absolute;
+    top: 30%;
+    left:72%;
+}
